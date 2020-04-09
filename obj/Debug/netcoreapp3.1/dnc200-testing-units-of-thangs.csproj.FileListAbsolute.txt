@@ -1,0 +1,13 @@
+C:\Users\shawn\Projects\dnc200-testing-units-of-thangs\bin\Debug\netcoreapp3.1\dnc200-testing-units-of-thangs.exe
+C:\Users\shawn\Projects\dnc200-testing-units-of-thangs\bin\Debug\netcoreapp3.1\dnc200-testing-units-of-thangs.deps.json
+C:\Users\shawn\Projects\dnc200-testing-units-of-thangs\bin\Debug\netcoreapp3.1\dnc200-testing-units-of-thangs.runtimeconfig.json
+C:\Users\shawn\Projects\dnc200-testing-units-of-thangs\bin\Debug\netcoreapp3.1\dnc200-testing-units-of-thangs.runtimeconfig.dev.json
+C:\Users\shawn\Projects\dnc200-testing-units-of-thangs\bin\Debug\netcoreapp3.1\dnc200-testing-units-of-thangs.dll
+C:\Users\shawn\Projects\dnc200-testing-units-of-thangs\bin\Debug\netcoreapp3.1\dnc200-testing-units-of-thangs.pdb
+C:\Users\shawn\Projects\dnc200-testing-units-of-thangs\obj\Debug\netcoreapp3.1\dnc200-testing-units-of-thangs.csprojAssemblyReference.cache
+C:\Users\shawn\Projects\dnc200-testing-units-of-thangs\obj\Debug\netcoreapp3.1\dnc200-testing-units-of-thangs.csproj.CoreCompileInputs.cache
+C:\Users\shawn\Projects\dnc200-testing-units-of-thangs\obj\Debug\netcoreapp3.1\dnc200-testing-units-of-thangs.AssemblyInfoInputs.cache
+C:\Users\shawn\Projects\dnc200-testing-units-of-thangs\obj\Debug\netcoreapp3.1\dnc200-testing-units-of-thangs.AssemblyInfo.cs
+C:\Users\shawn\Projects\dnc200-testing-units-of-thangs\obj\Debug\netcoreapp3.1\dnc200-testing-units-of-thangs.dll
+C:\Users\shawn\Projects\dnc200-testing-units-of-thangs\obj\Debug\netcoreapp3.1\dnc200-testing-units-of-thangs.pdb
+C:\Users\shawn\Projects\dnc200-testing-units-of-thangs\obj\Debug\netcoreapp3.1\dnc200-testing-units-of-thangs.genruntimeconfig.cache

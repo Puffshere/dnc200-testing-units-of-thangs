@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "dnc200-testing-units-of-thangs/1.0.0": {
+        "runtime": {
+          "dnc200-testing-units-of-thangs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dnc200-testing-units-of-thangs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
